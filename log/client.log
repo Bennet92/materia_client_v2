@@ -1,0 +1,12 @@
+[ 2024-03-14 14:25:40,605 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-03-14 14:25:41,187 ] Using spritesheet cache size of 910
+[ 2024-03-14 14:25:41,311 ] "Failed to load asset 'catalog-sound.json': I/O error on file 'D:/DEV/Repositories/materia_client_v2/sounds/catalog-sound.json': File does not exist"
+[ 2024-03-14 14:25:41,311 ] Update failed. Please reinstall Tibia to update your client.
+[ 2024-03-14 14:25:41,749 ] "Failed to load asset 'catalog-content.json': I/O error on file 'D:/DEV/Repositories/materia_client_v2/assets/catalog-content.json': File does not exist"
+[ 2024-03-14 14:25:41,749 ] Update failed. Please reinstall Tibia to update your client.
+[ 2024-03-14 14:26:10,935 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-03-14 14:26:11,318 ] Using spritesheet cache size of 910
+[ 2024-03-14 14:26:11,428 ] "Failed to load asset 'catalog-sound.json': I/O error on file 'D:/DEV/Repositories/materia_client_v2/sounds/catalog-sound.json': File does not exist"
+[ 2024-03-14 14:26:11,429 ] Update failed. Please reinstall Tibia to update your client.
+[ 2024-03-14 14:26:11,557 ] "Failed to load asset 'catalog-content.json': I/O error on file 'D:/DEV/Repositories/materia_client_v2/assets/catalog-content.json': File does not exist"
+[ 2024-03-14 14:26:11,557 ] Update failed. Please reinstall Tibia to update your client.
