@@ -1,12 +1,5 @@
-/sounds
-/minimap
-/log
-/crashdump
-/conf
-/cache
-/assets
-/windows/minimap
-/windows/characterdata
-/windows/cache
-/windows/log
-/windows/conf
+windows/minimap/*
+windows/characterdata/*
+windows/cache/*
+windows/log/*
+windows/conf/*
