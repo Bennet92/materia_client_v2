@@ -1,6 +1,6 @@
-windows/minimap/*
-windows/characterdata/*
-windows/cache/*
-windows/log/*
-windows/conf/*
+minimap/
+characterdata/
+cache/
+log/
+conf/
 
